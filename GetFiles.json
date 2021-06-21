@@ -1,11 +1,20 @@
 {
     "result": true,
     "IinFormation": {
-        "Text_Msg": "🗂¦ مرحبا بكم في متجر الملفات »  \n●ـ▬ـ▬ஜ۩🔥۩ஜ▬ـ▬ـ●\n🤖| جميع الملفات متاحه الان .\n\n",
+        "Text_Msg": "🗂¦ مرحبا بكم في متجر الملفات »  \nـ------------------------------------\n🤖| جميع الملفات متاحه الان .\n\n",
+        "Chaneel_ID": -1001096712764,
+        "Chaneel_Name": "TΞΛM BФSS",
+        "Chaneel_UserName": "@TH3BS",
+        "WebSite": "https://th3boss.com/",
         "BorderBy": "\n[*] علامه الـ✓ تعني الملف مفعل\n[*] وعلامه الـ✖️ تعني الملف غير مفعل  \n\nMade By { @LSLHB📡 }."
     },
+    "Developers": {
+        "Dev_1": "@Th3Bs",
+        "Dev_2": "@Blcon",
+        "Dev_3": "Not Found"
+    },
     "Plugins": {
-        "zhrfa.lua": "https://tme/LSLHB",
-        "games.lua":"https://tme/LSLHB"
+        "zhrfa.lua": "https://telegra.ph/Zhrfa-Th3boss-10-01",
+        "games.lua":"https://telegra.ph/File-Games-11-29"
     }
 }
